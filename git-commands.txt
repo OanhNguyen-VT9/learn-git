@@ -1,2 +1,4 @@
 - Kiem tra xem may da cai dat git chua:
 	git --version
+- Them tat ca thay doi moi nhat vao stage:
+	git add .
