@@ -10,6 +10,10 @@
 	git checkout <commit-id> (commit-id co tu git log --oneline)
 - Lay lai trang thai moi nhat
 	git checkout master
-
+- Day tat ca thay doi o local repo len remote repo tren dam may GitHub
+	Log in vao github.com
+	Tao remote repo moi
+	Lam theo huong dan de lien ket local repo va remote repo voi nhau
+	(copy and paste command tu github vao command promt(terminal))	
 
 
