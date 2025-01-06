@@ -1,0 +1,2 @@
+- Kiem tra xem may da cai dat git chua:
+	git --version
