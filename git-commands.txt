@@ -6,4 +6,10 @@
 	git commit -m "ghi chu cho thay doi vua luu"
 - Kiem tra lich su nhung thay doi da luu:
 	git log --oneline
+- Kiem tra cac trang thai cu
+	git checkout <commit-id> (commit-id co tu git log --oneline)
+- Lay lai trang thai moi nhat
+	git checkout master
+
+
 
