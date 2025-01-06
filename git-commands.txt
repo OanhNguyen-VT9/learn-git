@@ -2,3 +2,8 @@
 	git --version
 - Them tat ca thay doi moi nhat vao stage:
 	git add .
+- Luu tat ca thay doi tu trang thai stage:
+	git commit -m "ghi chu cho thay doi vua luu"
+- Kiem tra lich su nhung thay doi da luu:
+	git log --oneline
+
