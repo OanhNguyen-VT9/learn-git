@@ -17,5 +17,6 @@
 	(copy and paste command tu github vao command promt(terminal))
 Luu y: Khi tai khoan github va tai khoan may tinh khong giong nhau thi
 phai thay doi ve chung 1 tai khoan ma ban muon.	
-
+- Sao chep remote repo ve may (local repo):
+	git clone <https/...duong link toi remote repo copied tu github>
 
