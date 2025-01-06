@@ -1,5 +1,9 @@
 - Kiem tra xem may da cai dat git chua:
 	git --version
+- Bat dau mot repo
+	git init
+	git config user.name "Oanh Nguyen"
+	git config user.email "oanhnguyen.vt9@gmail.com"
 - Them tat ca thay doi moi nhat vao stage:
 	git add .
 - Luu tat ca thay doi tu trang thai stage:
